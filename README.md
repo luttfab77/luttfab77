@@ -5,7 +5,6 @@
 ## I'm a Student and Developer!!
 
 ---
-<br/>
 
 ### Connect with me:
 
@@ -16,8 +15,6 @@
 <br/>
 
 ---
-
-<br />
 
 ### Languages and Tools:
 
@@ -38,13 +35,11 @@
 
 ---
 
-<br />
-
 <details>
 
 <summary>GitHub Stats</summary>
 
-  <img align="left" alt="luttfab77's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luttfab77&show_icons=true&hide=stars,prs,issues&include_all_commits=true&count_private=true&custom_title=GitHub Stats&show_icons=true&theme=radical&border_color=ffffff" />
+  <img align="left" alt="luttfab77's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luttfab77&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&custom_title=GitHub Stats&show_icons=true&theme=radical" />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luttfab77&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
